@@ -19,6 +19,7 @@ Step by Step tutorial:
 5. Making some predictions.
 
 
+----------------------------
 Algorithms:
 
 Logistic Regression (LR)
