@@ -1,5 +1,8 @@
 # machine-learning
 
+First machine learning project
+
+Classification of iris flowers
 
 Step by Step tutorial:
 
