@@ -17,3 +17,13 @@ Step by Step tutorial:
 3. Visualizing the dataset.
 4. Evaluating some algorithms.
 5. Making some predictions.
+
+
+Algorithms:
+
+Logistic Regression (LR)
+Linear Discriminant Analysis (LDA)
+K-Nearest Neighbors (KNN).
+Classification and Regression Trees (CART).
+Gaussian Naive Bayes (NB).
+Support Vector Machines (SVM).
