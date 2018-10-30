@@ -22,8 +22,13 @@ Step by Step tutorial:
 Algorithms:
 
 Logistic Regression (LR)
+
 Linear Discriminant Analysis (LDA)
-K-Nearest Neighbors (KNN).
-Classification and Regression Trees (CART).
-Gaussian Naive Bayes (NB).
-Support Vector Machines (SVM).
+
+K-Nearest Neighbors (KNN)
+
+Classification and Regression Trees (CART)
+
+Gaussian Naive Bayes (NB)
+
+Support Vector Machines (SVM)
