@@ -2,7 +2,7 @@
 
 ------------------------------
 ------------------------------
-First machine learning project
+First machine learning project ->
 Classification of iris flowers
 ------------------------------
 ------------------------------
